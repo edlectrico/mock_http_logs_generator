@@ -9,4 +9,4 @@ $ python genhttplogs.py
 ```
 
 You sould see something like:
-![output](http:///screenshots/output.png)
+![output](https://github.com/edlectrico/mock_http_logs_generator/blob/master/screenshots/output.png)
